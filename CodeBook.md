@@ -38,6 +38,7 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 	
 	d. Creates an independent tidy data set with the average of each variable for each activity and each subject and save it to the Tidy_Data.txt.
 	
+**Note-** The "run_analysis.R" file combines both “GCD_Project_megre.R” and “GCD_Project_analyze.R” and can be used to replace them both.
 
 
 
